@@ -1,6 +1,7 @@
 # IntervalTimer
 High accuracy and precision timer for windows.Can still provide high timing accuracy even when the system is fully loaded.([1,8)ms)
 # Example
+``` 
 import ctypes
 from IntervalTimer import IntervalTimer
 NORMAL_PRIORITY_CLASS = 0x20
